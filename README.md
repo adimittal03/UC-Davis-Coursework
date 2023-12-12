@@ -3,9 +3,9 @@ Important code/projects from my UC Davis coursework
 
 Notable Courses:
 - MAT 167: Applied Linear Algebra
-- STA 141A:
-- STA 141B:
-- STA 141C:
+- STA 141A: Fundamentals of Statistical Data Science
+- STA 141B: Data & Web Technologies for Data Analysis
+- STA 141C: Big Data & High Performance Statistical Computing
 - ECS32C: Implementation of data structures in C
 - ECS32B: Implementation of data structures in python
 - STA 145: Bayesian Statistical Inference
